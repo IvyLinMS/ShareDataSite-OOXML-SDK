@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <GeneratedFeatureId>6c6f78f6-c92c-46bc-acb2-911a6d0e4997</GeneratedFeatureId>
+    <GeneratedPackageId>ad5ba414-c966-4ca8-8d5f-f69eeb722cc2</GeneratedPackageId>
+    <GeneratedModuleId>{e6bd2b62-1f48-47a0-94fe-3fa2dd940486}</GeneratedModuleId>
+    <GeneratedListId>{945299cb-70ca-4630-9900-6de9e6fd32cb}</GeneratedListId>
+    <GeneratedProductId>{9e60fbc9-6d5d-4b61-886c-626ef08dc221}</GeneratedProductId>
+    <GeneratedAppVersion>1.0.0.0</GeneratedAppVersion>
+    <GeneratedClientSecret>4fWtF3rDRbOYKQI3rpWacNIGyCNyzZFwFoVyIni65PU=</GeneratedClientSecret>
+  </PropertyGroup>
+</Project>
